@@ -8,6 +8,6 @@ public class GreetingRestController {
 
     @GetMapping("/greet")
     public GreetingDto greet() {
-        return new GreetingDto("Hallo", "Kalle");
+        return new GreetingDto("Hey", "Joe");
     }
 }
