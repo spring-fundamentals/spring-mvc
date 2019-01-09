@@ -1,4 +1,4 @@
-package ch.mare.springmvc.controller;
+package ch.mare.springfundamentals.mvc.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

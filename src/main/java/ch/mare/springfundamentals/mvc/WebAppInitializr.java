@@ -1,4 +1,4 @@
-package ch.mare.springmvc;
+package ch.mare.springfundamentals.mvc;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;

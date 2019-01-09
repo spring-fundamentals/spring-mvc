@@ -1,4 +1,4 @@
-package ch.mare.springmvc.controller;
+package ch.mare.springfundamentals.mvc.controller;
 
 public class GreetingDto {
 
