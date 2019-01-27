@@ -1,4 +1,4 @@
-package ch.mare.springfundamentals.mvc.controller;
+package com.zuehlke.springfundamentals.mvc.controller;
 
 import java.time.LocalDate;
 

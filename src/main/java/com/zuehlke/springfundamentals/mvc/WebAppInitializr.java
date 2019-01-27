@@ -1,4 +1,4 @@
-package ch.mare.springfundamentals.mvc;
+package com.zuehlke.springfundamentals.mvc;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;
