@@ -1,0 +1,6 @@
+GET http://localhost:8080/spring-mvc/greet
+Accept: */*
+Cache-Control: no-cache
+
+###
+
