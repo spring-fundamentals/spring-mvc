@@ -1,12 +1,12 @@
-package com.swisscom.springfundamentals.mvc.controller;
+package com.springfundamentals.mvc.controller;
 
 import java.time.LocalDate;
 
 public class GreetingDto {
 
-  private String greeting;
-  private String name;
-  private LocalDate greetingDate;
+  private final String greeting;
+  private final String name;
+  private final LocalDate greetingDate;
 
   public GreetingDto(String greeting, String name) {
     this.greeting = greeting;

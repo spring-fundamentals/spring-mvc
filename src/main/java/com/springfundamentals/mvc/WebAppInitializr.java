@@ -1,4 +1,4 @@
-package com.swisscom.springfundamentals.mvc;
+package com.springfundamentals.mvc;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletRegistration;

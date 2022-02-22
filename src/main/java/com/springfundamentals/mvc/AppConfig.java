@@ -1,4 +1,4 @@
-package com.swisscom.springfundamentals.mvc;
+package com.springfundamentals.mvc;
 
 import java.text.SimpleDateFormat;
 import java.util.List;
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
-@ComponentScan("com.swisscom.springfundamentals.mvc")
+@ComponentScan("com.springfundamentals.mvc")
 @EnableWebMvc
 public class AppConfig implements WebMvcConfigurer {
 
