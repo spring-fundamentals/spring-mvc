@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Start Tomcat and Deploy App" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17">
+  <configuration default="false" name="Start Tomcat10 and Deploy App" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="false">
+    <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___com_springfundamentals___spring_mvc_0_0_1_SNAPSHOT_war" />
     <option name="UPDATING_POLICY" value="restart-server" />
     <deployment>
       <artifact name="Gradle : com.springfundamentals : spring-mvc-0.0.1-SNAPSHOT.war">
@@ -9,8 +10,7 @@
       </artifact>
     </deployment>
     <server-settings>
-      <option name="BASE_DIRECTORY_NAME" value="a3942691-ee3f-4045-b3b9-61eb3b05225e" />
-      <option name="HTTP_PORT" value="8080" />
+      <option name="BASE_DIRECTORY_NAME" value="98815ab7-c0b0-460d-8757-aac99a057667" />
     </server-settings>
     <predefined_log_file enabled="true" id="Tomcat" />
     <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -18,10 +18,10 @@
     <predefined_log_file id="Tomcat Host Manager" />
     <predefined_log_file id="Tomcat Localhost Access" />
     <RunnerSettings RunnerId="Debug">
-      <option name="DEBUG_PORT" value="56882" />
+      <option name="DEBUG_PORT" value="61745" />
     </RunnerSettings>
     <RunnerSettings RunnerId="Debug with VisualVM">
-      <option name="DEBUG_PORT" value="61340" />
+      <option name="DEBUG_PORT" value="61746" />
     </RunnerSettings>
     <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
       <option name="USE_ENV_VARIABLES" value="true" />
